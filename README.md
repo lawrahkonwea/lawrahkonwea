@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I am Amaka Laura Konwea</h1>
 <h3 align="center">a full-stack developer, Nice to meet you 🤝.</h3>
-<!-- <hr border="1px solid">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawrahkonwea" alt="lawrahkonwea" /></a> </p> -->
+
 
 
 <hr border="2px solid">
@@ -13,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawrahkonwea&show_icons=true&locale=en" alt="lawrahkonwea" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawrahkonwea&" alt="lawrahkonwea" /></p>
+<p><img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=lawrahkonwea&" alt="lawrahkonwea" /></p>
