@@ -10,6 +10,6 @@
 <hr border="2px solid">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lawrahkonwea&show_icons=true&locale=en&layout=compact" alt="lawrahkonwea" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawrahkonwea&show_icons=true&locale=en" alt="lawrahkonwea" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lawrahkonwea&show_icons=true&locale=en" alt="lawrahkonwea" /></p>
 
-<p><img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=lawrahkonwea&" alt="lawrahkonwea" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawrahkonwea&" alt="lawrahkonwea" /></p>
