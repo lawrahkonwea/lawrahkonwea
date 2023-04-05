@@ -5,7 +5,7 @@
 
 
 <hr border="2px solid">
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center" top="40px">⚡ Stats ⚡</h2>
 
 
 <div margin-top="10%"><h3 align="center">Languages and Tools:</h3></div>
