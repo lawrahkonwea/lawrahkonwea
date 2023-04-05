@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I am Amaka Laura Konwea</h1>
-<h3 align="center">a full-stack developer, Nice to meet you 🤝.</h3>
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="310">
 
+<h3 align="center">a full-stack developer, Nice to meet you 🤝.</h3>
 
 
 <hr border="2px solid">
